@@ -1,4 +1,4 @@
-# Nova Topia NFT Auction Contract
+# Liquality Contract
 
 This contract based on Hardhat builder.
 
